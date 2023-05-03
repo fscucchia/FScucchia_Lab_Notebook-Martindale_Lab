@@ -4,7 +4,7 @@ This [open lab notebook](https://fscucchia.github.io/FScucchia_Lab_Notebook-Mart
 This notebook is platformed on GitHub and it is directly linked to GitHub repositories that contain further details presented in notebook posts. 
 
 <p align="center">
-  <img src="https://github.com/fscucchia/FScucchia_Lab_Notebook-Martindale_Lab/blob/master/media/ezgif.com-crop.gif?raw=true" />
+  <img src="https://github.com/fscucchia/FScucchia_Lab_Notebook-Martindale_Lab/blob/master/media/ezgif.com-resize.gif?raw=true" />
 </p>
 
 Credits: This notebook is built with Beautiful Jekyll, forked from [Dean Attali](https://github.com/daattali/beautiful-jekyll). 
