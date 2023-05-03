@@ -10,6 +10,7 @@ Using the [NuPAGE Bis-Tris Mini Gel](https://www.thermofisher.com/order/catalog/
 Here I used the manufacturer [protocol](https://www.thermofisher.com/document-connect/document-connect.html?url=https://assets.thermofisher.com/TFS-Assets%2FLSG%2Fmanuals%2FMAN0007891_NuPAGE_BisTris_MiniGels.pdf) with some modifications.
 
 **Prepare samples**
+
 Volumes are provided for a 10-μL sample size. 
 
 | Components | Reduced sample | Non-reduced Sample |
