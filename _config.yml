@@ -20,11 +20,11 @@ author: Dr. Federica Scucchia
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://sites.google.com/view/federicascucchia/home"
+  About Me: "https://sites.google.com/view/federicascucchia/home"
+#  Resources:
+#    - Beautiful Jekyll: "https://beautifuljekyll.com"
+#    - Learn markdown: "https://www.markdowntutorial.com/"
+#  Author's home: "https://sites.google.com/view/federicascucchia/home"
 
 ################
 # --- Logo --- #
