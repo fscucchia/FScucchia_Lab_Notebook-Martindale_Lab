@@ -10,19 +10,15 @@ Using the [RFP-Trap Agarose Kit](https://www.ptglab.com/products/RFP-Trap-Agaros
 
 For this extraction I used the manufacturer [protocol](https://www.ptglab.com/products/pictures/pdf/rta_Manual_RFP-Trap_Agarose.pdf) with some adjustments.
 
-### Reagents preparation
+### Embryo cell lysis
 
-**Here is some bold text**
+**Bead equilibration**
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+**Protien binding**
+
+**Washing**
+
+**Elution with 2x SDS-sample buffer (Laemmi)**
 
 
-It can also be centered!
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
 
