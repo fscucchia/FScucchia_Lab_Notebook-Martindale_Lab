@@ -22,3 +22,28 @@ Volumes are provided for a 10-μL sample size.
 Heat samples at 70˚C for 10 minutes.
 
 **Prepare buffers**
+Add 50 mL of 20X NuPAGE MES SDS Running Buffer to 950 mL of deionized water to prepare 1X SDS Running Buffer.
+
+**Prepare gel**
+1. Remove the comb, and rinse the gel wells three times using 1X Running Buffer.
+2. Remove the white tape near the bottom of the gel cassettes.
+3. Place the gels in the mini gel tank
+
+**Load buffers**
+For the [XCell SureLock™ Mini-Cell](https://www.thermofisher.com/us/en/home/life-science/protein-biology/protein-gel-electrophoresis/protein-gel-electrophoresis-chamber-systems/xcell-surelock-mini-vertical-electrophoresis-system.html), add 600 mL of 1X running buffer to the lower chamber, and 200 mL to the upper chamber.
+
+**Load samples and molecular marker**
+1. Load 10 µL of your samples in the appropriate wells.
+2. Load your protein ladder in the appropriate well.
+
+**Run the gel**
+Run for 25 minutes at 200 V constant.
+
+**Gel staining**
+I used the [AcquaStain Protein Gel Stain](https://www.bulldog-bio.com/product/acquastain-protein-gel-stain/?gad=1&gclid=CjwKCAjwjMiiBhA4EiwAZe6jQ6mHKK4COmXJOdLbjlv1iLPCYG7dPjkvxbq2her8nINJ9SCjrXUKHRoCZsQQAvD_BwE).
+1. Add enough stain to cover gel completely. 
+2. Incubate overnight at 4°C.
+3. Wash the gel in deionized water for at least 20 min.
+
+
+
