@@ -11,6 +11,7 @@ For this extraction I used the manufacturer [protocol](https://www.thermofisher.
 
 **Prepare samples**
 Volumes are provided for a 10-μL sample size. 
+
 | Components | Reduced sample | Non-reduced Sample |
 | :------ |:--- | :--- |
 | Sample | x μL | x μL |
