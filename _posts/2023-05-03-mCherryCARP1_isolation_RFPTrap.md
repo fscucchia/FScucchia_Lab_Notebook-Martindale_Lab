@@ -2,6 +2,7 @@
 layout: post
 title: Isolation of mCherryCARP1 protein from Nemtostella vectensis injected embryos
 subtitle: Using the RFP-Trap Agarose Kit
+cover-img: media/embryo.png
 tags: [protein isolation]
 comments: true
 ---
