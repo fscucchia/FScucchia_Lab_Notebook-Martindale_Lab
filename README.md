@@ -7,4 +7,4 @@ This notebook is platformed on GitHub and it is directly linked to GitHub reposi
   <img src="https://github.com/fscucchia/FScucchia_Lab_Notebook-Martindale_Lab/blob/master/media/ezgif.com-crop.gif?raw=true" />
 </p>
 
-Credits: This notebook is built with Beautiful Jekyll, forked from [Dean Attali]([https://github.com/barryclark/jekyll-now](https://github.com/daattali/beautiful-jekyll)). 
+Credits: This notebook is built with Beautiful Jekyll, forked from [Dean Attali](https://github.com/daattali/beautiful-jekyll). 
