@@ -22,7 +22,7 @@ For this extraction I used the manufacturer [protocol](https://www.ptglab.com/pr
 3. Add 500 µL ice-cold Dilution buffer.
 4. Sediment the beads by centrifugation at 2500x g for 5 min at +4°C. Discard the supernatant.
 
-**Protien binding**
+**Protein binding**
 1. Add diluted lysate to the equilibrated beads.
 2. Rotate end-over-end for 1 hour at +4°C.
 
