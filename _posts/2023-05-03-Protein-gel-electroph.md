@@ -2,6 +2,7 @@
 layout: post
 title: Protein gel electrophoresis
 subtitle: Using the NuPAGE Bis-Tris Mini Gel
+cover-img: media/IMG20230505170236.jpg
 tags: [protein, gel]
 ---
 
