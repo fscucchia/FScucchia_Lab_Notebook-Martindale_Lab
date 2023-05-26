@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Transformation of custom plasmids into E. coli
+title: Transforming E.coli with engineered plasmid
 subtitle: Plasmid design and E. coli colony screening
 tags: [plasmid, colony screening]
 comments: true
