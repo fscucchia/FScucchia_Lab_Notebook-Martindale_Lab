@@ -7,6 +7,7 @@ tags: [cloning, colony screening]
 comments: true
 ---
 
+_This protocol was created by the Martindale lab._
 Transgenic constructs were designed using the software programs Serial Cloner and [Geneious Prime 2021.2.2](https://www.geneious.com). Inserts were G-blocked using the [Twist Bioscience clanal genes tool](https://www.twistbioscience.com/products/genes?tab=clonal).
 
 **Transformation**
@@ -18,7 +19,9 @@ Use a swab or other tool of choice to distribute the base+E.coli on the agar.
 5. Incubate the plates at 37°C overnight.
 
 **Colony screening**
-1. The morning after take out the plates from the incubator. Take out a new agar plate from the 4°C and warm it in the incubator at 37°C. 
+1. The morning after take out the plates from the incubator. Take out a new agar plate from the 4°C and warm it in the incubator at 37°C (~10 minutes). 
+2. Take out and label PCR tubes, it would be best to screen at least 10 colonies per each construct that was transformed. Use toothpicks to pick one distinct colony from any of the 2 plates, 
+
 
 
 
