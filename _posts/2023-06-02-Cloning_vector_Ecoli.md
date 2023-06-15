@@ -24,6 +24,10 @@ Use a swab or other tool of choice to distribute the base+E.coli on the agar.
 2. Take out and label PCR tubes, it would be best to screen at least 10 colonies per each construct that was transformed. 
 3. Take out the warmed agar plate. 
 4. Use toothpicks to pick one distinct colony from any of the 2 overnight-incubated plates. Scrape each toothpick into one spot in the warmed agar plate (mark the petri dish containing the agar with numbered squares to know the position of each screened colony) and then inside a PCR tube.
+5. Prepare a mastermix for the PCR, add 24.5uL of the mix to each PCR tube containing a colony, run the PCR. Settings may vary depending on the primers used and the lenght of the construct to be amplified.
+6. After the PCR is done, run the amplified products on a 1% agarose gel and check if the construct of the right size is present. 
+
+**Liquid colony cloning**
 
 
 
