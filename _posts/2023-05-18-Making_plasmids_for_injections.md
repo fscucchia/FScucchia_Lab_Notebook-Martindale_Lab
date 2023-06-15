@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Making plasmids for injections
+title: Generation of plasmid for injections
 subtitle: Making plasmids for injecting N. vectensis embryos
 tags: [plasmid, injection]
 comments: true
