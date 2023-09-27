@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Generation of plasmid for injections
-subtitle: Making plasmids for injecting N. vectensis embryos
+title: Digestion of plasmid and ligation with inserts
+subtitle: Digesting plasmid with restriction enzymes for vector + insert ligation
 thumbnail-img: media/plasmid.png
-tags: [plasmid, injection]
+tags: [plasmid, digestion, ligation]
 comments: true
 ---
 
