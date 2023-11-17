@@ -23,8 +23,18 @@ _All buffers must pass through 0.45µm filter before use_
 
 **Sample preparation**
 1. Add 0.6 mL of buffer A + 0.2mg/mL lysozyme + 0.6 mL [protease-inhibitor](https://www.sigmaaldrich.com/US/en/product/roche/coro) to a 2mL tube containing at least 3000 transgenic embryos.
+2. Homogenize for <1 minute using an electrical homogenizer.
+3. Leave on ice for 20 minutes.
+4. Filter the sample using a 0.45µm filter.
+
+**Sample application**
+_Wash all tubes and pumps with DDW before every stage_
+1. Equilibrate column for 3 CV with Buffer A at 0.5mL/min. 
+2. Load 400uL of sample at 1mL/min using a syringe (sample loop of 500uL). 
+3. Wash column for 10 CV with 100% Buffer A at 1mL/min.
+4. Gradient Elution: Buffers A & B, flow rate 1mL/min, collect 1mL fractions. 
 
 
-**_In progress_**
+*_In progress_*
 
 
