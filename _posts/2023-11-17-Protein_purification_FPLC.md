@@ -13,7 +13,6 @@ I'm using here the [ÄKTA go - FPLC system](https://www.bionity.com/en/products/
 
 
 **Buffers preparation**
-
 _All buffers must pass through 0.45µm filter before use_
 •	Buffer A: 50mM Tris-HCl, 0.5M NaCl, 10mM Imidazole pH 7.4
 •	Buffer B: Buffer A + 250mM Imidazole
