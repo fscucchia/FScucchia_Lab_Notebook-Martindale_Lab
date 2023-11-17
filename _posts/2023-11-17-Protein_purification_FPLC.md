@@ -13,14 +13,16 @@ I'm using here the [ÄKTA go - FPLC system](https://www.bionity.com/en/products/
 
 
 **Buffers preparation**
+
 _All buffers must pass through 0.45µm filter before use_
+
 •	Buffer A: 50mM Tris-HCl, 0.5M NaCl, 10mM Imidazole pH 7.4
 •	Buffer B: Buffer A + 250mM Imidazole
 •	0.5M NaOH
 •	20% EtOH
 
 **Sample preparation**
-
+1. Add 0.6 mL of buffer A + 0.2mg/mL lysozyme + 0.6 mL [protease-inhibitor](https://www.sigmaaldrich.com/US/en/product/roche/coro) to a 2mL tube containing at least 3000 transgenic embryos.
 
 
 **_In progress_**
