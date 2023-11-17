@@ -33,8 +33,14 @@ _Wash all tubes and pumps with DDW before every stage_
 2. Load 400uL of sample at 1mL/min using a syringe (sample loop of 500uL). 
 3. Wash column for 10 CV with 100% Buffer A at 1mL/min.
 4. Gradient Elution: Buffers A & B, flow rate 1mL/min, collect 1mL fractions. 
+5. Wash column for 2 CV with 100%B at 1mL/min.
+6. Wash column for 3 CV with DI at 3mL/min.
 
+**Column wash and storage**
+•	Flow rate 1mL/min
+1. Wash column for 3 CV with DI.
+2. Wash column for 3 CV with 0.5M NaOH.
+3. Wash column for 3 CV with 20% EtOH.
 
-*_In progress_*
-
+Run a [gel](https://fscucchia.github.io/FScucchia_Lab_Notebook-Martindale_Lab/2023-06-03-Protein-gel-electroph/) to look at the purified protein sample.
 
