@@ -28,6 +28,7 @@ _All buffers must pass through 0.45µm filter before use_
 4. Filter the sample using a 0.45µm filter.
 
 **Sample application**
+
 _Wash all tubes and pumps with DDW before every stage_
 1. Equilibrate column for 3 CV with Buffer A at 0.5mL/min. 
 2. Load 400uL of sample at 1mL/min using a syringe (sample loop of 500uL). 
@@ -37,6 +38,7 @@ _Wash all tubes and pumps with DDW before every stage_
 6. Wash column for 3 CV with DI at 3mL/min.
 
 **Column wash and storage**
+
 •	Flow rate 1mL/min
 1. Wash column for 3 CV with DI.
 2. Wash column for 3 CV with 0.5M NaOH.
