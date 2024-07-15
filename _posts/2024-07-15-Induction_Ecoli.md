@@ -2,7 +2,6 @@
 layout: post
 title: Bacterial Recombinant Protein Expression 
 subtitle: Inducing IDPs expression in E. coli
-cover-img: media/addgene-plasmid-59982-sequence-142933-map.png
 tags: [protein, Ecoli]
 comments: true
 ---
