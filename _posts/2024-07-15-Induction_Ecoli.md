@@ -18,12 +18,13 @@ The pBAD plasmids are pBR322-derived expression vectors designed for regulated, 
 7. Remove a 1 mL aliquot of cells from each tube, centrifuge at maximum speed in a microcentrifuge for 30 seconds, and aspirate the supernatant. 
 8. Freeze the cell pellet at –20°C. This is the zero time point sample. 
 9. Add L-arabinose to the five 10 mL cultures as follows:
-|Tube|  Volume (mL)|  Stock Solution|  Final Concentration|| 
-|1  |0.1 | 0.002%|  0.00002% |
-|2  |0.1 | 0.02% | 0.0002% |
-|3 | 0.1|  0.2%|  0.002% |
-|4 | 0.1|  2% | 0.02% |
-|5  |0.1|  20% | 0.2% |
+
+| Tube | Volume (mL)| Stock Solution| Final Concentration | 
+| 1 |0.1 | 0.002%| 0.00002% |
+| 2 |0.1 | 0.02% | 0.0002% |
+| 3 | 0.1 | 0.2%| 0.002% |
+| 4 | 0.1 | 2% | 0.02% |
+| 5 |0.1 | 20% | 0.2% |
 
 10.  Grow at 20-25°C with shaking overnight.  
 11.  Take 1 mL samples and treat as in Step 7 and 8. 
